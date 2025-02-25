@@ -1,0 +1,249 @@
+@font-face {
+    font-family: 'acme';
+    src: url('../font/acme-regular.ttf');
+}
+h1, h2, h3, h4, h5, h6, p{
+	font-family: 'acme';
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+#header{
+	display: flex;
+	justify-content: center;
+	width: 105%;
+	height: 18vw;
+	background-color:rgb(0, 54, 255, 0.6); 
+	margin-top:-2vw;
+	margin-left: -2vw;
+}
+#header div{
+	display: flex;
+	align-items:  center;
+	justify-content: center;
+	height: 100%;
+}
+#header p{
+	font-size: 7vw;
+	color:white;
+	font-family: 'acme';
+}
+.logo{
+	width: 11vw;
+	height: 11vw;
+	margin-right: 3vw;
+}
+#intro{
+	opacity: 1;
+	height: 90vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	transition: all 2s;
+}
+#intro img{
+	opacity: 1;
+	width: 80%;
+}
+#intro2{
+	opacity: 0;
+	height: 90vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	transition: all 2s;
+}
+#intro2 img{
+	opacity: 0;
+	width: 80%;
+	margin-top:-20vw;
+	transition: all 2s !important;
+}
+#inicio{
+	text-align: center;
+	margin-top: 15vw;
+}
+#inicio form{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#inicio input{
+	border: solid blue;
+	border-radius: 15px;
+	margin-top:2vw;
+	width: 70vw;
+	height: 5vw;
+}
+.menu{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100vw;
+	justify-content: center;
+	margin-top:15vw;
+}
+.menu div{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin:3vw;
+	text-align: center;
+}
+.menu>div>a>img{
+	width: 35vw;
+}
+.menu>div>a>h3{
+	font-size: 4vw;
+}
+.respuestacuenta{
+	background-color: lightblue;
+	margin-top:1vw;
+	padding-top:0.2vw;
+	padding-bottom: 0.2vw;
+	padding-right: 2vw;
+	padding-left: 2vw;
+	border-radius: 15px;
+	border: black solid 2px;
+	max-width: 92%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.formulariobalance{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	margin-top:10vw;
+}
+.formulariobalance input{
+	width: 60%;
+	height: 6vw;
+	border:lightblue solid 2px;
+	font-size: 4vw;
+}
+#botonbalance{
+	width: 20vw;
+	margin-top:5vw;
+	margin-left: 39vw;
+	border: 1px solid lightblue;
+	border-radius: 15px;
+}
+#ajustes{
+	position: fixed;
+	top: 90vh;
+	left: 80vw;
+	width: 15vw;
+	height: 15vw;
+}
+#ajustes img{
+	width: inherit;
+	height: inherit;
+}
+.registrate{
+	font-weight: bold;
+	font-family: 'acme';
+	font-size: 4vw;
+    text-align: center;
+    margin-top: 10vw;
+}
+.textoslegales p{
+	justify-content: center;
+	width: 95vw;
+	margin-left:2vw;
+}
+.textoslegales h2, h4{
+	text-align: center;
+}
+#iniciotextoslegales{
+      opacity:1;
+	width: 95.5vw;
+    position:absolute;
+    bottom:5vw;
+    display: flex;
+    justify-content: center;
+    transition: all 2s;
+}
+#iniciotextoslegales a{
+	margin-left: 1.5vw;
+	font-size:4vw;
+	color:#b7b5b5;
+}
+#iniciotextoslegales2{
+    opacity:0;
+	width: 95.5vw;
+    position:absolute;
+    bottom:5vw;
+    display: flex;
+    justify-content: center;
+    transition: all 2s;
+}
+#iniciotextoslegales2 a{
+	margin-left: 1.5vw;
+	font-size:4vw;
+	color:#b7b5b5;
+}
+input[type=image]{
+	width: 25vw !important;
+	height: auto !important;
+}
+.cuadrocuentas{
+	display: flex;
+}
+.cuadrocuentas form{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	margin-top:10vw;
+}
+.cuadrocuentas>form>input{
+	width: 60%;
+	height: 10vw;
+	border:lightblue solid 2px;
+	font-size: 4vw;
+}
+.tipodecuentas{
+	width: 10%;
+    height: 10%;
+    margin-left: 3vw;
+}
+.ajustes{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.ajustes>a>div{
+	display: flex;
+	align-items: center;
+}
+.ajustes>a>div>img{
+	width: 15vw;
+	height: 15vw;
+	margin-left: 2vw;
+}
+.ajustes>a>div>p{
+	font-size: 6vw;
+	margin-left: 5vw;
+	font-family: 'acme';
+}
+.ajustes a{
+	margin-top:1vw;
+	width: 100vw;
+}
+#inputcolor{
+	font-size: 4vw;
+	color:white;
+	background-color:blue;
+	border-radius: 15px;
+	font-family:'acme';
+	padding:1vw;
+	height: auto !important;
+}

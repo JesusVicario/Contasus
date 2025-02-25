@@ -1,0 +1,30 @@
+[09-Apr-2021 18:40:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[09-Apr-2021 18:41:38 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 4
+[09-Apr-2021 18:41:40 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 4
+[09-Apr-2021 18:42:24 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 4
+[09-Apr-2021 18:42:25 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function seesion_start() in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[09-Apr-2021 18:42:26 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function seesion_start() in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[09-Apr-2021 18:42:27 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function seesion_start() in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[09-Apr-2021 18:42:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function seesion_start() in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[09-Apr-2021 18:42:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function seesion_start() in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[09-Apr-2021 18:43:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function seesion_start() in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cisafyph/public_html/proyectosapartes/sindominio/contasus/pages/cuadrodecuentas.php on line 2
+[02-Nov-2021 17:15:06 Europe/Madrid] PHP Parse error:  syntax error, unexpected '<' in /home/cisafyph/public_html/proyectosapartes/condominio/contasus.es/pages/documentos.php on line 72
+[02-Nov-2021 17:15:08 Europe/Madrid] PHP Parse error:  syntax error, unexpected '<' in /home/cisafyph/public_html/proyectosapartes/condominio/contasus.es/pages/documentos.php on line 72

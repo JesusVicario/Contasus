@@ -1,0 +1,87 @@
+(PN) 100 | Share capital
+(PN) 102 | Capital
+(PN) 112 | Legal reserve
+(PN) 113 | Voluntary reserves
+(PN) 1141| Statutory reserves
+(PN) 120 | Retained earnings
+(PN) 121 | Prior periods losses
+(PN) 129 | Profit/loss for the period
+(CP) 170 | Non-current debt with financial institutions
+(CP) 171 | Non-current payables
+(CP) 173 | Non-current payables to suppliers of fixed assets
+(CP) 175 | Non-current bills payable
+(CA) 203 | Industrial property
+(CA) 206 | Computer software
+(CA) 210 | Land and natural resources
+(CA) 211 | Buildings
+(CA) 212 | Technical installations
+(CA) 213 | Machinery
+(CA) 214 | Equipment
+(CA) 216 | Furniture
+(CA) 217 | Information technology equipment
+(CA) 218 | Motor vehicles
+(CA) 250 | Non-current investments in equity instruments
+(CA) 251 | Non-current debt securities
+(CA) 252 | Non-current loans
+(CA) 253 | Non-current loans for disposal of fixed assets
+(CA) 2531| Non-current bills receivable
+(CA) 258 | Non-current deposits
+(CA) 300 | Merchandise A
+(CA) 310 | Raw materials A
+(CA) 326 | Packaging
+(CA) 327 | Containers
+(CA) 350 | Finish goods A
+(CP) 4000| Suppliers, euros
+(CP) 401 | Suppliers, trade bills payable
+(CP) 402 | Non-current suppliers
+(CP) 409 | Non-current suppliers, trade bills payable
+(CP) 410 | Payables for the rendering of services
+(CP) 411 | Trade bills payable
+(CA) 4300| Trade receivables, euros
+(CA) 4302| Non-current trade receivables
+(CA) 431 | Trade receivables, trade bills receivable
+(CA) 439 | Non-current trade bills in portfolio
+(CA) 440 | Receivables
+(CA) 441 | Receivables, trade bills
+(CI) 4700| VAT recoverable
+(CA) 472.4| Hacienda Publica, IVA soportado 4%
+(CA) 472.10| Hacienda Publica, IVA soportado 10%
+(CA) 472.21| Hacienda Publica, IVA soportado 21%
+(CA) 4750| VAT payable
+(CP) 477.4| Hacienda Publica, IVA repercutido 4%
+(CP) 477.10| Hacienda Publica, IVA repercutido 10%
+(CP) 477.21| Hacienda Publica, IVA repercutido 21%
+(CP) 520 | Current debt with financial institutions
+(CP) 521 | Current payables
+(CP) 523 | Current payables to suppliers of fixed assets
+(CP) 525 | Current bills payable
+(CA) 540 | Current investments in equity instruments
+(CA) 541 | Current debt securities
+(CA) 542 | Current loans
+(CA) 543 | Current loans of disposal of fixed assets
+(CA) 5431| Current bills receivable
+(CA) 548 | Current deposits
+(CA) 570 | Cash, euros
+(CA) 572 | Banks and financial institutions, demand current accounts, euros
+(CG) 600 | Merchandise purchased
+(CG) 602 | Others supplies purchased
+(CI) 6060| Prompt payment discounts on merchandise purchased
+(CI) 6080| Returns of merchandise purchased
+(CI) 6090| Volume discounts on merchandise purchased
+(GI) 610 | Changes in inventories of merchandise
+(GI) 612 | Changes in inventories of other supplies
+(CG) 621 | Leases and royalties
+(CG) 622 | Repairs and maintenance
+(CG) 623 | Independent professional services
+(CG) 624 | Transport
+(CG) 625 | Insurance premiums
+(CG) 627 | Advertising, publicity and public relations
+(CG) 628 | Utilities
+(CG) 629 | Other services
+(CI) 700 | Merchandise sold
+(CI) 704 | Containers and packaging sold
+(CI) 705 | Services rendered
+(CI) 7060| Prompt payment discounts on merchandise sold
+(CI) 7080| Returns of merchandise sold
+(CI) 7090| Volume discounts on merchandise sold
+(CI) 759 | Income from other services

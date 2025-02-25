@@ -1,0 +1,118 @@
+(PN) 100 | Capital Social
+(PN) 102 | Capital
+(PN) 112 | Reserva legal
+(PN) 113 | Reservas voluntarias
+(PN) 1141| Reservas estatutarias
+(PN) 120 | Remanente
+(PN) 121 | Resultados negativos de ejercicios anteriores
+(PN) 129 | Resultado del ejercicio
+(CP) 170 | Deudas a largo plazo con entidades de credito
+(CP) 171 | Deudas a largo plazo
+(CP) 173 | Proveedores de inmovilizado a largo plazo
+(CP) 175 | Efectos a pagar a largo plazo
+(CA) 203 | Propiedad industrial
+(CA) 206 | Aplicaciones informasticas
+(CA) 210 | Terrenos y bienes naturales
+(CA) 211 | Construcciones
+(CA) 212 | Instalacciones tecnicas
+(CA) 213 | Maquinaria
+(CA) 214 | Utillaje
+(CA) 216 | Mobiliario
+(CA) 217 | Equipos para el proceso de la informacion
+(CA) 218 | Elementos de transportes
+(CA) 219 | Otro inmovilizado material
+(CA) 250 | Inversiones financieras a largo plazo en instrumentos de patrimonio
+(CA) 251 | Valores representativos de deuda a largo plazo
+(CA) 252 | Credito a largo plazo
+(CA) 253 | Creditos a largo plazo por enajenacion de inmovilizado
+(CA) 2531| Efectos a cobrar a largo plazo
+(CA) 258 | Imposiciones a largo plazo
+(CP) 2803| Amortizacion acumulada de propiedad industrial
+(CP) 2806| Amortizacion acumulada de aplicaciones informaticas
+(CP) 2811| Amortizacion acumulada de contrucciones
+(CP) 2812| Amortizacion acumulada de instalaciones tecnicas
+(CP) 2813| Amortizacion acumulada de maquinaria
+(CP) 2814| Amortizacion acumulada de utillaje
+(CP) 2815| Amortizacion acumulada de otras instalaciones
+(CP) 2816| Amortizacion acumulada de mobiliario
+(CP) 2817| Amortizacion acumulada de equipos para el proceso de informacion
+(CP) 2818| Amortizacion acumulada de elementos de transporte
+(CA) 300 | Mercaderias A
+(CA) 310 | Materias primas A
+(CA) 326 | Embalajes
+(CA) 327 | Envases
+(CA) 350 | Productos terminados A
+(CP) 4000| Proveedores, euros
+(CP) 4009| Proveedores, facturas pendientes de recibir o formalizar
+(CP) 401 | Proveedores, efectos comerciales a pagar
+(CP) 402 | Proveedores a largo plazo
+(CA) 406 | Envases y embalajes a devolver a proveedores
+(CA) 407 | Anticipos a proveedores
+(CP) 409 | Proveedores, efectos comerciales a pagar a largo plazo
+(CP) 410 | Acreedores por prestaciones de servicios
+(CP) 411 | Acreedores, efectos comerciales a pagar
+(CA) 4300| Clientes, euros
+(CA) 4309| Clientes, facturas pendientes de formalizar
+(CA) 4310| Efectos comerciales en cartera
+(CA) 4302| Clientes a largo plazo
+(CA) 431 | Clientes, efectos comerciales a cobrar
+(CP) 437 | Envases y embalajes a devolver por clientes
+(CP) 438 | Anticipos de clientes
+(CA) 439 | Clientes, efectos comerciales a cobrar a largo plazo
+(CA) 440 | Deudores, euros
+(CA) 441 | Deudores, efectos comerciales a cobrar
+(CA) 460 | Anticipo de remuneraciones
+(CP) 465 | Remuneraciones pendientes de pago
+(CI) 4700| Hacienda Publica, deudora por IVA
+(CA) 472.4| Hacienda Publica, IVA soportado 4%
+(CA) 472.10| Hacienda Publica, IVA soportado 10%
+(CA) 472.21| Hacienda Publica, IVA soportado 21%
+(CA) 4750| Hacienda Publica, acreedora por IVA
+(CA) 4751| Hacienda Publica, acreedora por retenciones practicadas
+(CA) 476 | Organismos de la Seguridad Social, acreedores
+(CP) 477.4| Hacienda Publica, IVA repercutido 4%
+(CP) 477.10| Hacienda Publica, IVA repercutido 10%
+(CP) 477.21| Hacienda Publica, IVA repercutido 21%
+(CP) 520 | Deudas a corto plazo con entidades de credito
+(CP) 521 | Deudas a corto plazo
+(CP) 523 | Proveedores de inmovilizado a corto plazo
+(CP) 525 | Efectos a pagar a corto plazo
+(CP) 526 | Dividendo activo a pagar
+(CA) 540 | Inversiones financieras a corto plazo en instrumentos de patrimonio
+(CA) 541 | Valores representativos de deuda a corto plazo
+(CA) 542 | Credito a corto plazo
+(CA) 543 | Creditos a corto plazo por enajenacion de inmovilizado
+(CA) 5431| Efectos a cobrar a corto plazo
+(CA) 548 | Imposiciones a corto plazo
+(CA) 570 | Caja, euros
+(CA) 572 | Banco e instituciones de credito c/c de vista, euros
+(CG) 600 | Compra de mercaderia
+(CG) 602 | Compras de otros aprovisionamientos
+(CI) 6060| Descuentos sobre compras por pronto pago de mercaderias
+(CI) 6080| Devoluciones de compras de mercaderias
+(CI) 6090| Rappels por compras de mercaderias
+(GI) 610 | Variacion de existencias de mercaderias
+(GI) 612 | Variacion de existencias de otros aprovisionamientos
+(CG) 621 | Arrendamietos y canones
+(CG) 622 | Reparaciones y conservación
+(CG) 623 | Servicios de profesionales independientes
+(CG) 624 | Transportes
+(CG) 625 | Primas de seguros
+(CG) 626 | Servicios bancarios y similares
+(CG) 627 | Publicidad, propaganda y relaciones publicas
+(CG) 628 | Suministros
+(CG) 629 | Otros servicios
+(CG) 631 | Otros tributos
+(CG) 640 | Sueldos y salarios
+(CG) 642 | Seguridad Social a cargo de la empresa
+(CG) 669 | Otros gastos financieros
+(CG) 680 | Amortizacion del inmovilizado intangible
+(CG) 681 | Amortizacion del inmovilizado material
+(CP) 682 | Amortizacion de las inversiones inmobiliarias
+(CI) 700 | Venta de mercaderias
+(CI) 704 | Ventas de envases y embalajes
+(CI) 705 | Prestaciones de servicios
+(CI) 7060| Descuentos sobre ventas por pronto pago de mercaderias
+(CI) 7080| Devoluciones de ventas de mercaderias
+(CI) 7090| Rappels sobre ventas de mercaderias
+(CI) 759 | Ingresos por servicios diversos
